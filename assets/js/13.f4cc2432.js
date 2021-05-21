@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{321:function(t,e,n){"use strict";n.r(e);var s=n(1),c=Object(s.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"content"},[e("BlogList",{attrs:{type:"tech"}})],1)}),[],!1,null,null,null);e.default=c.exports}}]);
